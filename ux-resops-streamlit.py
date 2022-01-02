@@ -1,3 +1,4 @@
+##### VERSION 1.0 -- Updates incoming for caching and more data #####
 ## Begin necessary library imports
 # Import file and data handling
 import os
